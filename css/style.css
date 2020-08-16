@@ -48,13 +48,13 @@ body{
 .clear{
     width : 30px;
     height: 30px;
-    margin-left: 360px;
-    
+    position: absolute;
+    right:20px;
+    top: 20px;
 }
 .clear i{
     font-size: 30px;
-    color: #ffffff;
-    margin-top: 20px;
+    color: #FFF;
 }
 .clear i:hover{
     cursor: pointer;
@@ -138,7 +138,7 @@ body{
 }
 .add-to-do{
     position: relative;
-    width: 360px;
+    width: 340px;
     height:40px;
     background-color: #FFF;
     padding: 10px;
