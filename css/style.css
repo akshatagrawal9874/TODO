@@ -48,7 +48,7 @@ body{
 .clear{
     width : 30px;
     height: 30px;
-    margin-left: 450px;
+    margin-left: 360px;
     
 }
 .clear i{
@@ -138,7 +138,7 @@ body{
 }
 .add-to-do{
     position: relative;
-    width: 380px;
+    width: 360px;
     height:40px;
     background-color: #FFF;
     padding: 10px;
