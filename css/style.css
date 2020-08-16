@@ -30,14 +30,14 @@ body{
 }
 .container{
     padding:10px;
-    width:500px;
+    width:380px;
     margin:0 auto;
     background-color: #F1F4FFFF;
     border-radius: 20px;
     margin-top: 85px;
 }
 .header{
-    width: 500px;
+    width: 380px;
     height:200px;
     background-image: url('/TODO/bg11.png');
     background-size: 100% 200%;
@@ -71,7 +71,7 @@ body{
 }
 
 .content{
-    width:500px;
+    width:380px;
     height: 350px;
     max-height:350px;
     background-color: #FFF;
@@ -85,7 +85,7 @@ body{
     margin:0;
 }
 .item{
-    width:500px;
+    width:380px;
     height: 45px;
     min-height: 45px;
     position: relative;
@@ -138,7 +138,7 @@ body{
 }
 .add-to-do{
     position: relative;
-    width: 480px;
+    width: 380px;
     height:40px;
     background-color: #FFF;
     padding: 10px;
